@@ -5,21 +5,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masoud0909" alt="masoud0909" /></a> </p>
 
-- 🔭 I’m currently working on **loading information in my backend!**
+- 🔭 I’m currently working on **loading information in my backend! =))**
 
 - 👯 I’m looking to collaborate on **making outputs that are beneficial for the world!**
 
-- 🤝 I’m looking for help with **Making future more interesting...**
+- 🤝 I’m looking for help with **making future more interesting...**
 
-- 📝 I try to write articles on [AI, IoT and IoV, Brain Chip nano technology...](AI, IoT and IoV, Brain Chip nano technology...)
+- 📝 I try to write articles on AI, IoT and IoV, Brain Chip nano technology...
 
 - 📫 How to reach me **mrafiee22@ubishops.ca**
 
-- ⚡ Fun fact **I can byte computers !**
+- ⚡ Fun fact: **I can byte computers !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/masoud-rafiee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/masoud-rafiee/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/masoud-rafiee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/masoud-rafiee/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
