@@ -1,7 +1,7 @@
 <h1 align="center">Hello Friend =) I'm Masoud Rafiee.</h1>
 <h3 align="center">A Passionate Student on a Mission!</h3>
 
-- 🔭 I’m currently **digesting CS knowledge in general and, in particluar, AI-IoT and HCI plus physics and economy as much as possible! =))**
+- 🔭 I’m currently **ingesting CS knowledge in general and, in particluar, AI-IoT and HCI plus physics and economy as much as possible! =))**
 
 - 👯 I’m looking to collaborate on **making outputs that are beneficial for the world!**
 
